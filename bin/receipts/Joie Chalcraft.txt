@@ -1,0 +1,7 @@
+- Name: Joie Chalcraft
+- ID: 00000029
+- Room Number: 207
+- Departure: 29/08/2017
+- Night(s) Spent: 2
+- Breakfast Served: 2
+- Total Price: 280.00

@@ -1,0 +1,757 @@
+today = 30/08/2017
+dorm = 180.00
+single = 100.00
+double = 180.00
+family = 240.00
+breakfast = 40.00
+[room 101]
+type = dorm
+capacity = 4
+name1 = Liberty Grabarczyk
+id1 = 00000004
+arrival1 = 27/08/2017
+departure1 = 17/09/2017
+keys1 = 1
+breakfast1 = 15
+payment1 = 735.00
+name2 = Bud Garin
+id2 = 00000005
+arrival2 = 27/08/2017
+departure2 = 01/09/2017
+keys2 = 1
+breakfast2 = 0
+payment2 = 135.00
+name3 = Mercy Clausing
+id3 = 00000009
+arrival3 = 27/08/2017
+departure3 = 21/09/2017
+keys3 = 1
+breakfast3 = 5
+payment3 = 335.00
+name4 = Charlie Albergotti
+id4 = 00000018
+arrival4 = 27/08/2017
+departure4 = 05/09/2017
+keys4 = 1
+breakfast4 = 3
+payment4 = 255.00
+[room 102]
+type = dorm
+capacity = 4
+name1 = Eduardo Carlino
+id1 = 00000022
+arrival1 = 27/08/2017
+departure1 = 05/09/2017
+keys1 = 1
+breakfast1 = 0
+payment1 = 135.00
+name2 = Deena Caporale
+id2 = 00000027
+arrival2 = 27/08/2017
+departure2 = 17/09/2017
+keys2 = 1
+breakfast2 = 11
+payment2 = 575.00
+name3 = Gilberto Gimenez
+id3 = 00000028
+arrival3 = 27/08/2017
+departure3 = 25/09/2017
+keys3 = 1
+breakfast3 = 27
+payment3 = 1215.00
+name4 = Eulalia Blaho
+id4 = 00000031
+arrival4 = 27/08/2017
+departure4 = 05/09/2017
+keys4 = 1
+breakfast4 = 3
+payment4 = 255.00
+[room 103]
+type = dorm
+capacity = 4
+name1 = Ligia Chludzinski
+id1 = 00000033
+arrival1 = 27/08/2017
+departure1 = 21/09/2017
+keys1 = 1
+breakfast1 = 11
+payment1 = 590.00
+name2 = Lilian Averbach
+id2 = 00000042
+arrival2 = 27/08/2017
+departure2 = 29/09/2017
+keys2 = 1
+breakfast2 = 22
+payment2 = 430.00
+name3 = Eliseo Engnath
+id3 = 00000043
+arrival3 = 27/08/2017
+departure3 = 13/09/2017
+keys3 = 1
+breakfast3 = 10
+payment3 = 550.00
+name4 = Lepet Squarth
+id4 = 1234abcd
+arrival4 = 30/08/2017
+departure4 = 09/09/2017
+keys4 = 2
+breakfast4 = 10
+payment4 = 0.00
+[room 104]
+type = dorm
+capacity = 4
+name1 = Bryanna Ahlstrom
+id1 = 00000049
+arrival1 = 27/08/2017
+departure1 = 13/09/2017
+keys1 = 1
+breakfast1 = 12
+payment1 = 750.00
+name2 = Eva Gibeau
+id2 = 00000064
+arrival2 = 28/08/2017
+departure2 = 06/09/2017
+keys2 = 1
+breakfast2 = 0
+payment2 = 90.00
+name3 = Etha Erby
+id3 = 00000071
+arrival3 = 28/08/2017
+departure3 = 22/09/2017
+keys3 = 1
+breakfast3 = 15
+payment3 = 690.00
+name4 = Jeana Delcarmen
+id4 = 00000085
+arrival4 = 28/08/2017
+departure4 = 22/09/2017
+keys4 = 1
+breakfast4 = 15
+payment4 = 690.00
+[room 105]
+type = dorm
+capacity = 4
+[room 106]
+type = dorm
+capacity = 4
+[room 107]
+type = dorm
+capacity = 4
+[room 108]
+type = dorm
+capacity = 4
+[room 109]
+type = dorm
+capacity = 4
+[room 110]
+type = dorm
+capacity = 4
+[room 111]
+type = dorm
+capacity = 4
+[room 112]
+type = dorm
+capacity = 4
+[room 113]
+type = dorm
+capacity = 4
+[room 114]
+type = dorm
+capacity = 4
+[room 115]
+type = dorm
+capacity = 4
+[room 116]
+type = dorm
+capacity = 4
+[room 117]
+type = dorm
+capacity = 4
+[room 118]
+type = dorm
+capacity = 4
+[room 119]
+type = dorm
+capacity = 4
+[room 120]
+type = dorm
+capacity = 4
+[room 121]
+type = dorm
+capacity = 4
+[room 122]
+type = dorm
+capacity = 4
+[room 123]
+type = dorm
+capacity = 4
+[room 124]
+type = dorm
+capacity = 4
+[room 125]
+type = dorm
+capacity = 4
+[room 126]
+type = dorm
+capacity = 4
+[room 127]
+type = dorm
+capacity = 4
+[room 128]
+type = dorm
+capacity = 4
+[room 129]
+type = dorm
+capacity = 4
+[room 130]
+type = dorm
+capacity = 4
+[room 201]
+type = single
+capacity = 1
+name1 = Chana Calpin
+id1 = 00000002
+arrival = 27/08/2017
+departure = 18/09/2017
+keys = 2
+breakfast = 6
+payment = 540.00
+[room 202]
+type = single
+capacity = 1
+name1 = Stacey Haer
+id1 = 00000003
+arrival = 27/08/2017
+departure = 26/09/2017
+keys = 2
+breakfast = 6
+payment = 540.00
+[room 203]
+type = single
+capacity = 1
+name1 = Antione Ackert
+id1 = 00000006
+arrival = 27/08/2017
+departure = 22/09/2017
+keys = 2
+breakfast = 22
+payment = 1180.00
+[room 204]
+type = single
+capacity = 1
+name1 = Tamisha Corman
+id1 = 00000007
+arrival = 27/08/2017
+departure = 04/10/2017
+keys = 2
+breakfast = 25
+payment = 700.00
+[room 205]
+type = single
+capacity = 1
+name1 = Rhea Foots
+id1 = 00000008
+arrival = 27/08/2017
+departure = 10/09/2017
+keys = 2
+breakfast = 8
+payment = 620.00
+[room 206]
+type = single
+capacity = 1
+name1 = Helena Gisondi
+id1 = 00000023
+arrival = 27/08/2017
+departure = 26/09/2017
+keys = 2
+breakfast = 14
+payment = 860.00
+[room 207]
+type = single
+capacity = 1
+[room 208]
+type = single
+capacity = 1
+[room 209]
+type = single
+capacity = 1
+name1 = Jeanene Failla
+id1 = 00000034
+arrival = 27/08/2017
+departure = 14/09/2017
+keys = 2
+breakfast = 2
+payment = 380.00
+[room 210]
+type = single
+capacity = 1
+name1 = Ivory Cayson
+id1 = 00000035
+arrival = 27/08/2017
+departure = 26/09/2017
+keys = 2
+breakfast = 14
+payment = 860.00
+[room 211]
+type = single
+capacity = 1
+name1 = Takisha Drafall
+id1 = 00000046
+arrival = 27/08/2017
+departure = 14/09/2017
+keys = 2
+breakfast = 10
+payment = 700.00
+[room 212]
+type = single
+capacity = 1
+name1 = Marvel Baier
+id1 = 00000060
+arrival = 28/08/2017
+departure = 23/09/2017
+keys = 2
+breakfast = 16
+payment = 840.00
+[room 213]
+type = single
+capacity = 1
+name1 = Shanna Browen
+id1 = 00000075
+arrival = 28/08/2017
+departure = 30/08/2017
+keys = 2
+breakfast = 2
+payment = 280.00
+[room 214]
+type = single
+capacity = 1
+name1 = Gaylene Bleiweiss
+id1 = 00000079
+arrival = 28/08/2017
+departure = 30/08/2017
+keys = 2
+breakfast = 2
+payment = 280.00
+[room 215]
+type = single
+capacity = 1
+[room 216]
+type = single
+capacity = 1
+[room 217]
+type = single
+capacity = 1
+[room 218]
+type = single
+capacity = 1
+[room 219]
+type = single
+capacity = 1
+[room 220]
+type = single
+capacity = 1
+[room 221]
+type = single
+capacity = 1
+[room 222]
+type = single
+capacity = 1
+[room 223]
+type = single
+capacity = 1
+[room 224]
+type = single
+capacity = 1
+[room 225]
+type = single
+capacity = 1
+[room 226]
+type = single
+capacity = 1
+[room 227]
+type = single
+capacity = 1
+[room 228]
+type = single
+capacity = 1
+[room 229]
+type = single
+capacity = 1
+[room 230]
+type = single
+capacity = 1
+[room 301]
+type = double
+capacity = 2
+name1 = Shonta Doten
+id1 = 00000000
+arrival = 27/08/2017
+departure = 19/09/2017
+keys = 1
+breakfast = 33
+payment = 1860.00
+name2 = Jessenia Armelin
+id2 = 00000001
+[room 302]
+type = double
+capacity = 2
+name1 = Sophie Haefele
+id1 = 00000016
+arrival = 27/08/2017
+departure = 19/09/2017
+keys = 1
+breakfast = 33
+payment = 1860.00
+name2 = Jesus Armentor
+id2 = 00000017
+[room 303]
+type = double
+capacity = 2
+name1 = Qiana Bardell
+id1 = 00000044
+arrival = 27/08/2017
+departure = 23/09/2017
+keys = 1
+breakfast = 29
+payment = 1700.00
+name2 = Khalilah Aslinger
+id2 = 00000045
+[room 304]
+type = double
+capacity = 2
+name1 = Brian Cagle
+id1 = 00000047
+arrival = 27/08/2017
+departure = 11/10/2017
+keys = 1
+breakfast = 50
+payment = 1700.00
+name2 = Nydia Flexer
+id2 = 00000048
+[room 305]
+type = double
+capacity = 2
+name1 = Cruz Cannellos
+id1 = 00000053
+arrival = 28/08/2017
+departure = 28/09/2017
+keys = 1
+breakfast = 35
+payment = 1760.00
+name2 = Marshall Bahnsen
+id2 = 00000054
+[room 306]
+type = double
+capacity = 2
+[room 307]
+type = double
+capacity = 2
+name1 = Shanell Dopler
+id1 = 00000065
+arrival = 28/08/2017
+departure = 04/09/2017
+keys = 1
+breakfast = 11
+payment = 800.00
+name2 = Flo Andruzzi
+id2 = 00000066
+[room 308]
+type = double
+capacity = 2
+name1 = Geralyn Anneler
+id1 = 00000080
+arrival = 28/08/2017
+departure = 20/09/2017
+keys = 1
+breakfast = 25
+payment = 1360.00
+name2 = Benjamin Cabeceira
+id2 = 00000081
+[room 309]
+type = double
+capacity = 2
+[room 310]
+type = double
+capacity = 2
+[room 311]
+type = double
+capacity = 2
+[room 312]
+type = double
+capacity = 2
+[room 313]
+type = double
+capacity = 2
+[room 314]
+type = double
+capacity = 2
+[room 315]
+type = double
+capacity = 2
+[room 316]
+type = double
+capacity = 2
+[room 317]
+type = double
+capacity = 2
+[room 318]
+type = double
+capacity = 2
+[room 319]
+type = double
+capacity = 2
+[room 320]
+type = double
+capacity = 2
+[room 321]
+type = double
+capacity = 2
+[room 322]
+type = double
+capacity = 2
+[room 323]
+type = double
+capacity = 2
+[room 324]
+type = double
+capacity = 2
+[room 325]
+type = double
+capacity = 2
+[room 326]
+type = double
+capacity = 2
+[room 327]
+type = double
+capacity = 2
+[room 328]
+type = double
+capacity = 2
+[room 329]
+type = double
+capacity = 2
+[room 330]
+type = double
+capacity = 2
+[room 401]
+type = family
+capacity = 3
+name1 = Rose Gunawan
+id1 = 00000010
+arrival = 27/08/2017
+departure = 16/09/2017
+keys = 2
+breakfast = 32
+payment = 2000.00
+name2 = Tula Drysdale
+id2 = 00000011
+name3 = Neville Flechsig
+id3 = 00000012
+[room 402]
+type = family
+capacity = 3
+name1 = Dierdre Altieri
+id1 = 00000013
+arrival = 27/08/2017
+departure = 08/09/2017
+keys = 2
+breakfast = 28
+payment = 1840.00
+name2 = Doyle Germundson
+id2 = 00000014
+name3 = Jacki Archilla
+id3 = 00000015
+[room 403]
+type = family
+capacity = 3
+name1 = Barb Croutch
+id1 = 00000019
+arrival = 27/08/2017
+departure = 27/10/2017
+keys = 2
+breakfast = 159
+payment = 1680.00
+name2 = Shonna Doswell
+id2 = 00000020
+name3 = Erlene Epping
+id3 = 00000021
+[room 404]
+type = family
+capacity = 3
+name1 = Casie Gartrell
+id1 = 00000024
+arrival = 27/08/2017
+departure = 28/09/2017
+keys = 2
+breakfast = 96
+payment = 4560.00
+name2 = Dottie Daquip
+id2 = 00000025
+name3 = Pearline Gubin
+id3 = 00000026
+[room 405]
+type = family
+capacity = 3
+name1 = Anette Crisafi
+id1 = 00000036
+arrival = 27/08/2017
+departure = 29/10/2017
+keys = 2
+breakfast = 171
+payment = 4560.00
+name2 = Regine Collella
+id2 = 00000037
+name3 = Tarah Cornelson
+id3 = 00000038
+[room 406]
+type = family
+capacity = 3
+[room 407]
+type = family
+capacity = 3
+name1 = Jaye Fahrney
+id1 = 00000050
+arrival = 28/08/2017
+departure = 01/09/2017
+keys = 2
+breakfast = 12
+payment = 960.00
+name2 = Ngoc Clutter
+id2 = 00000051
+name3 = Celia Egertson
+id3 = 00000052
+[room 408]
+type = family
+capacity = 3
+name1 = Ali Aber
+id1 = 00000055
+arrival = 28/08/2017
+departure = 21/09/2017
+keys = 2
+breakfast = 48
+payment = 2400.00
+name2 = Jae Delafuente
+id2 = 00000056
+name3 = Pa Florence
+id3 = 00000057
+[room 409]
+type = family
+capacity = 3
+name1 = Marni Filipi
+id1 = 00000061
+arrival = 28/08/2017
+departure = 25/09/2017
+keys = 2
+breakfast = 80
+payment = 3680.00
+name2 = Margeret Cilento
+id2 = 00000062
+name3 = Francis Gildea
+id3 = 00000063
+[room 410]
+type = family
+capacity = 3
+name1 = Lyndsay Grant
+id1 = 00000068
+arrival = 28/08/2017
+departure = 21/09/2017
+keys = 2
+breakfast = 64
+payment = 3040.00
+name2 = Fredia Gilhooly
+id2 = 00000069
+name3 = Shizuko Frater
+id3 = 00000070
+[room 411]
+type = family
+capacity = 3
+name1 = Marlys Brague
+id1 = 00000072
+arrival = 28/08/2017
+departure = 21/09/2017
+keys = 2
+breakfast = 48
+payment = 2400.00
+name2 = Paris Coffer
+id2 = 00000073
+name3 = Vergie Bulwinkle
+id3 = 00000074
+[room 412]
+type = family
+capacity = 3
+name1 = Annita Critton
+id1 = 00000076
+arrival = 28/08/2017
+departure = 21/09/2017
+keys = 2
+breakfast = 56
+payment = 2720.00
+name2 = Fernanda Casabona
+id2 = 00000077
+name3 = Avis Crothers
+id3 = 00000078
+[room 413]
+type = family
+capacity = 3
+name1 = Carmine Ajoku
+id1 = 00000082
+arrival = 28/08/2017
+departure = 13/09/2017
+keys = 2
+breakfast = 48
+payment = 2400.00
+name2 = Chong Bettes
+id2 = 00000083
+name3 = Simona Dotzler
+id3 = 00000084
+[room 414]
+type = family
+capacity = 3
+[room 415]
+type = family
+capacity = 3
+[room 416]
+type = family
+capacity = 3
+[room 417]
+type = family
+capacity = 3
+[room 418]
+type = family
+capacity = 3
+[room 419]
+type = family
+capacity = 3
+[room 420]
+type = family
+capacity = 3
+[room 421]
+type = family
+capacity = 3
+[room 422]
+type = family
+capacity = 3
+[room 423]
+type = family
+capacity = 3
+[room 424]
+type = family
+capacity = 3
+[room 425]
+type = family
+capacity = 3
+[room 426]
+type = family
+capacity = 3
+[room 427]
+type = family
+capacity = 3
+[room 428]
+type = family
+capacity = 3
+[room 429]
+type = family
+capacity = 3
+[room 430]
+type = family
+capacity = 3

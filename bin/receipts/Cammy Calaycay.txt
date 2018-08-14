@@ -1,0 +1,7 @@
+- Name: Cammy Calaycay
+- ID: 00000030
+- Room Number: 208
+- Departure: 29/08/2017
+- Night(s) Spent: 2
+- Breakfast Served: 2
+- Total Price: 280.00

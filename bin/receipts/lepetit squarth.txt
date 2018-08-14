@@ -1,0 +1,7 @@
+- Name: lepetit squarth
+- ID: 1234abcd
+- Room Number: 105
+- Departure: 08/09/2017
+- Night(s) Spent: 1
+- Breakfast Served: 10
+- Total Price: 580.00

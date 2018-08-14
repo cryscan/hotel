@@ -1,0 +1,7 @@
+- Name: Kent Dencklau
+- ID: 00000032
+- Room Number: 103
+- Departure: 28/08/2017
+- Night(s) Spent: 1
+- Breakfast Served: 0
+- Total Price: 45.00

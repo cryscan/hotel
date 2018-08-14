@@ -1,0 +1,7 @@
+- Name: Wendi Covarruvia
+- ID: 00000058
+- Room Number: 306
+- Departure: 12/09/2017
+- Night(s) Spent: 1
+- Breakfast Served: 15
+- Total Price: 780.00

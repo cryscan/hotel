@@ -1,0 +1,7 @@
+- Name: Kirstin Cheeves
+- ID: 00000067
+- Room Number: 103
+- Departure: 29/08/2017
+- Night(s) Spent: 1
+- Breakfast Served: 0
+- Total Price: 45.00

@@ -1,0 +1,7 @@
+- Name: Winona Furlotte
+- ID: 00000039
+- Room Number: 406
+- Departure: 12/09/2017
+- Night(s) Spent: 3
+- Breakfast Served: 16
+- Total Price: 1360.00
